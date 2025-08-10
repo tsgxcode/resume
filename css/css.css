@@ -66,3 +66,11 @@ body {
             margin: 5px 5px 5px 0;
             border-radius: 4px;
         }
+
+           .ul{
+            padding: 30px;
+        }
+
+        .li{
+            padding: 20px;
+        }
